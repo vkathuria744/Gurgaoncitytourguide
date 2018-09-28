@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Gurgaon guide</string>
+    <string name="monuments">Monuments</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="cafes">Cafes</string>
+    
+    <!-- Monuments -->
+    <string name="ghausalishah"> Ghaus Ali Shah</string>
+    <string name="ghausalishah_des"> Women used to came ‘Bauli’ to take the water for their daily needs. They have to come down the stone stairs. Archaeological Survey of India has taken up restoration work here. The Sheesh Mahal gives a glimpse of splendour and lavishness that the Mughal rulers enjoyed in the past. This monument is also known as Baoli Ghaus Ali Shah. The Building is octagonal in shape and has been built inside Sheesh Mahal Complex.</string>
+    <string name="ghausalishah_address"> Baoli Ali Ghaus Shah – Farrukh Nagar Gurgaon Haryana </string>
+
+    <string name="farrukhnagarfort"> Farrukh Nagar Fort </string>
+    <string name="farrukhnagarfort_des"> This is a nice place to visit for those taking keen interest in history or the more adventurous tourists. The Fort is referred to as ‘Dilli Darwaza’ also.</string>
+    <string name="farrukhnagarfort_address"> Rohtak border in Farrukhnagar (Gurgaon)</string>
+
+    <string name="pataudipalace"> Pataudi Palace</string>
+    <string name="pataudipalace_des"> This Palace has been converted into a hotel. Pataudi Palace is also known as Ibrahim Kothi and belongs to the Pataudi family. Many Bollywood films have been shot in this Palace. The Nawab of Pataudi, Iftikhar Ali Khan got it designed by Robert Tor Russel and the Palace was built by Austrian Architect Karl Most Von Heinz.</string>
+    <string name="pataudipalace_address"> Pataudi Village, Gurgaon</string>
+    
+    <string name="aliwardimasjid"> Aliwardi Masjid</string>
+    <string name="aliwardimasjid_des"> This masjid is just 2 kms. from North of Old Tehsil Office of Gurgaon and is a 200 years old Legacy of Nawab Aliwardi Khan, Founder of Aliwardi Village.</string>
+    <string name="aliwardimasjid_address"> Gurgaon</string>
+
+    <!-- Restaurants -->
+    <string name="thaipavilion"> Thai Pavilion – Vivanta By Taj</string>
+    <string name="thaipavilion_address"> Vivanta by Taj, Sector 44, Gurgaon</string>
+    <string name="thaipavilion_des"> If you love Thai cuisine, you know this is your best bet. The food is delectable, all right, but is the service that surpasses all. The staff is attentive and knows what’s bet to offer from the menu. </string>
+
+    <string name="whiskysambahorizoncenter"> Whisky Samba, Horizon Center</string>
+    <string name="whiskysambahorizoncenter_address">  Two Horizon Center, DLF Phase 5, Golf Course Road, Gurgaon</string>
+    <string name="whiskysambahorizoncenter_des"> At Whisky Samba, 18 is the new 12 when it comes to whisky selection and it brings the fun back in whisky drinking and mixology with a modern twist to progressive cooking styles and world dance music.</string>
+
+    <string name="amarantatheoberoi"> Amaranta – The Oberoi</string>
+    <string name="amarantatheoberoi_address"> The Oberoi, 443, Phase 5, Udyog Vihar, Gurgaon </string>
+    <string name="amarantatheoberoi_des"> The best seafood that you can relish in town is available here. A wide variety of coastal delicacies are available on the menu including crabs, fish and prawns. Indian authentic coastal cuisine is on offer that completely transports one to the south of the peninsula.</string>
+
+    <string name="spectratheleelaambience"> Spectra – The Leela Ambience</string>
+    <string name="spectratheleelaambience_address"> The Leela Ambience, Ambience Island, Ambience Mall, Gurgaon</string>
+    <string name="spectratheleelaambience_des"> Again a multi cuisine fine dining fare, the restaurant offers seven live kitchens dedicated to seven different cuisines. One is definitely spoilt for choice whilst here.</string>
+
+    <!-- Cafes -->
+    
+    <string name="themadteapotgolfcourseroad"> The Mad Teapot, Golf Course Road</string>
+    <string name="themadteapotgolfcourseroad_address"> Lower Ground Floor, DLF South Point Mall, Golf Course Road, Gurgaon</string>
+    <string name="themadteapotgolfcourseroad_des"> This magical cafe will woo you with its first look. Situated inside a beautiful shop, it truly couldn’t get better!</string>
+
+    <string name="dighentcafe"> Di Ghent Cafe</string>
+    <string name="dighentcafe_address">  208, Level 2, Cross Point Mall, DLF Phase 4, Gurgaon</string>
+    <string name="dighentcafe_des"> A Belgian cafe amidst the city; think wooden tables, laid-back seating, European vibes and delicious food. </string>
+
+    <string name="anotherfineday">  Another Fine Day </string>
+    <string name="anotherfineday_address"> Ground Floor, MPD Towers, DLF Golf Course Road, Golf Course Road</string>
+    <string name="anotherfineday_des"> Quaint and rustic, Another Fine Day is a reading room cafe bejewelled with fun and quirky accessories. </string>
+    
+    <string name="cafeamaretto"> Cafe Amaretto</string>
+    <string name="cafeamaretto_address">  Ground Floor, DLF South Point Mall, Golf Course Road, Gurgaon</string>
+    <string name="cafeamaretto_des"> A significantly recent addition to Gurgaon’s cafe scene, Cafe Amaretto has gained quite a following for its simplistic ambience, relaxing vibe and Italian food.</string>
+    
+    <!-- Hotels -->
+    
+    <string name="thetrident"> The Trident</string>
+    <string name="thetrident_address"> 443, Gurgaon Road, Phase V, Udyog Vihar, Gurgaon </string>
+    <string name="thetrident_des"> The award winning Trident, Gurgaon, is set amongst 7 acres of landscaped gardens, walkways, courtyards, reflection pools and fountains.</string>
+    
+    <string name="theoberoi"> The Oberoi</string>
+    <string name="theoberoi_address"> Plot No.443, Off Swarna Jayanti Marg, Udyog Vihar, Phase V, Gurgaon </string>
+    <string name="theoberoi_des"> The hotel is located in the prime business and shopping district of Gurgaon in the Delhi-NCR and 15 minute drive from Delhi International Airport.</string>
+    
+    <string name="courtyardbymarriottgurugramdowntown"> Courtyard By Marriott Gurugram Downtown </string>
+    <string name="courtyardbymarriottgurugramdowntown_address"> North Gurgaon (DLF Phase 1-5 | South City-1 | Sushant Lok-1 | Sector-29)</string>
+    <string name="courtyardbymarriottgurugramdowntown_des"> Courtyard by Marriott Gurugram Downtown is a boon fortoday’s ambitious travelers who are always looking to succeedin this modern world.</string>
+    
+    <string name="lemeridien"> Le Meridien </string>
+    <string name="lemeridien_address"> North Gurgaon (DLF Phase 1-5 | South City-1 | Sushant Lok-1 | Sector-29)</string>
+    <string name="lemeridien_des"> Le Meridien is ideally located in the business hub of Gurgaon with Global Business Park, DLF Cyber City and Golf Course Road in close proximity and also offers easy access to Jaipur and Agra.</string>
+    
+</resources>
+
+
